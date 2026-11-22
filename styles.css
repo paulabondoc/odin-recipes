@@ -26,6 +26,7 @@ body.homepage {
     padding-top: 8px;
     padding-bottom: 48px;
     max-width: 800px;
+    border: 2px dashed saddlebrown;
 }
 
 .recipe-content {
