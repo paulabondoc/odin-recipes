@@ -2,6 +2,7 @@ body {
     background-color: #DBA878;
     margin-top: 0;
     margin-bottom: 0;
+    font-family: Georgia, serif;
 }
 
 body.homepage {
