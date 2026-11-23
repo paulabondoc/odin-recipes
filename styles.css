@@ -31,16 +31,19 @@ body.homepage {
 
 .recipe-content {
     padding: 8px 16px;
-    max-width: 1200px;
+    max-width: 1080px;
 }
 
 img {
     height: auto;
 }
 
+h1, h2 {
+    color: #60793f;
+}
+
 .homepage-title {
     text-align: center;
-    color: #60793f;
 }
 
 /* Recipe titles */
