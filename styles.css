@@ -40,6 +40,11 @@ img {
 
 h1, h2 {
     color: #60793f;
+    margin-bottom: 8px;
+}
+
+p, ul, ol {
+    margin-top: 8px;
 }
 
 .homepage-title {
