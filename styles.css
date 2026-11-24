@@ -67,6 +67,10 @@ p, ul, ol {
     color: #778466;
 }
 
+.img-attr a {
+    color: inherit;
+}
+
 li {
     margin-bottom: 12px;
 }
