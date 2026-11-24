@@ -16,6 +16,10 @@ body.homepage {
     margin: 8px 24px;
 }
 
+a {
+    color: saddlebrown;
+}
+
 .cafe-board,
 .recipe-content {
     background-color: #FDF5E6;
@@ -56,6 +60,11 @@ p, ul, ol {
 /* Recipe titles */
 .recipe-content h1 {
     margin-top: 12px;
+}
+
+.img-attr {
+    margin-top: 2px;
+    color: #778466;
 }
 
 li {
