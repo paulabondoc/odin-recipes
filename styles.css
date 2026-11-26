@@ -62,6 +62,14 @@ p, ul, ol {
     margin-top: 12px;
 }
 
+.img-container {
+    display: flex;
+}
+
+.img-container img {
+    min-width: 0;
+}
+
 .img-attr {
     margin-top: 2px;
     color: #778466;
